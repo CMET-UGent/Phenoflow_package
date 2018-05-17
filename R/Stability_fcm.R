@@ -8,7 +8,7 @@
 #'  the gates or bins
 #' @param ... additional parameters passed on to
 #' @keywords ecology, stability
-#' @importFrom
+#' @importFrom plotrix draw.circle
 #' @references Koch C, Günther S, Desta AF, Hübschmann T, Müller S. Cytometric 
 #'  fingerprinting for analysing microbial intra-community structure variation 
 #'  and identifying sub-community function. Nature Protocols (2013) 8(1), 
